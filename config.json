@@ -1,3 +1,5 @@
 {
-  "max_accs": 100
+  "max_accs": 100,
+  "api_base": "https://api.giggl.app",
+  "ws_base": "wss://34.73.245.1"
 }
